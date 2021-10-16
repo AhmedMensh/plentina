@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlentinaTask</string>
+
+    <string name="available">Available</string>
+    <string name="not_available">Not Available</string>
+    <string name="books">Books</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="author">Author</string>
+    <string name="type">Type</string>
+</resources>
